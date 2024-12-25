@@ -9,7 +9,7 @@ Wi-Fi/BT	Intel Dongle Tp-link tl-wn725n
 Ethernet	Realtek RTL8111
 Audio	Realtek ALC230 (layout-id=20)
 Input	PS2 Keyboard & ELAN TrackPad
-
+#
 ✅ #Working
 
  CPU power management.
