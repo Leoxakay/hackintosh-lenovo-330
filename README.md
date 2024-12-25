@@ -1,4 +1,4 @@
-# hackintosh-lenovo-330
+# hackintosh-lenovo-330 15IKBR-i5-8250U
 
 #Category	Component#
 #CPU	1.8GHz Intel Core i5-8250u#
