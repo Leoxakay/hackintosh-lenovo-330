@@ -11,6 +11,23 @@ Ethernet	Realtek RTL8111
 Audio	Realtek ALC230 (layout-id=20)
 Input	PS2 Keyboard & ELAN TrackPad
 
+✅ Working
+ CPU power management.
+ Graphics acceleration.
+ Battery read-out.
+ Keyboard & trackpad with all macOS gestures.
+ Wi-Fi.
+ Bluetooth.
+ USB ports.
+ HDMI video & audio output.
+ Ethernet.
+ Audio (Internal speakers, 3.5mm headphone jack).
+ Internal microphone.
+ VGA WebCam.
+ AirDrop & Handoff.
+ iCloud & App Store.
+ iMessage & FaceTime.
+
 
 
 link para baixar a EFI
